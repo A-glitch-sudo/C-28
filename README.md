@@ -1,2 +1,2 @@
-# C-28
- we have created the slingshot effect, we have done mouse trigger events
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
